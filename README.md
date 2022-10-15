@@ -1,9 +1,3 @@
-
-
-
-![App Screenshot](https://www.appinessworld.com/assets/images/appiness-logo.svg)
-
-
 # Nested Recycler View
 
 This is the repository for the Android Assignment which shows nested recycler view
@@ -11,8 +5,7 @@ This is the repository for the Android Assignment which shows nested recycler vi
 
 ## Screenshots
 
-![abc](https://user-images.githubusercontent.com/41104353/184539494-d97fb198-3b9b-4284-9a7e-5bd3cb0da62e.png)
-
+![Screenshot 2022-10-15 053805](https://user-images.githubusercontent.com/41104353/195959975-d7cba11a-7b22-4107-b0e7-33654668cb69.png)
 
 ## Development Environment
 
